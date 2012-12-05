@@ -1,0 +1,211 @@
+All access attempts to your network are showed. 
+
+
+--- 
+00.00.0000 00:33:42 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:33:42 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:33:42 Err <EVENT> scm: 995-00-00 getUserName(connectionName, userName) failed. Result: -2147483646 (E_FAIL) 
+00.00.0000 00:33:42 Err <EVENT> scm: 995-00-00 getIsMngmtRestricted(connectionName, isMngmtRestricted) failed. Result: -2147483646 (E_FAIL) 
+00.00.0000 00:33:42 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:33:00 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:31:59 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:31:44 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:31:44 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:31:44 Err <EVENT> scm: 995-00-00 getUserName(connectionName, userName) failed. Result: -2147483646 (E_FAIL) 
+00.00.0000 00:31:44 Err <EVENT> scm: 995-00-00 getIsMngmtRestricted(connectionName, isMngmtRestricted) failed. Result: -2147483646 (E_FAIL) 
+00.00.0000 00:31:44 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:31:40 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:31:37 Err <EVENT> scm: 002-00-00 Timer: Try to stop a timer which is already stopped 
+00.00.0000 00:30:58 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:29:57 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:28:56 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:27:55 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:26:54 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:26:04 War <EVENT> web: 995-01-00 User (0.0.0.0) logon has timed out. (G003) 
+00.00.0000 00:25:53 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:24:52 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:23:51 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:22:50 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:21:49 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:20:48 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:19:47 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:18:46 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:17:45 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:16:44 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:15:46 Err <EVENT> scm: 995-00-00 Controller for reading data returned error. Result[E_FAIL] 
+00.00.0000 00:15:46 Err <EVENT> scm: 995-00-00 wan->getProviderName(currentConnectionSCMName, provider) failed. Result: -2147483646 (E_FAIL) 
+00.00.0000 00:15:46 Err <EVENT> scm: 995-00-00 getUserName(connectionName, userName) failed. Result: -2147483646 (E_FAIL) 
+00.00.0000 00:15:46 Err <EVENT> scm: 995-00-00 getIsMngmtRestricted(connectionName, isMngmtRestricted) failed. Result: -2147483646 (E_FAIL) 
+00.00.0000 00:15:46 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:15:43 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:14:42 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:13:41 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:12:40 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:11:39 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:11:25 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:11:11 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:11:11 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:11:11 Err <EVENT> scm: 995-00-00 getUserName(connectionName, userName) failed. Result: -2147483646 (E_FAIL) 
+00.00.0000 00:11:11 Err <EVENT> scm: 995-00-00 getIsMngmtRestricted(connectionName, isMngmtRestricted) failed. Result: -2147483646 (E_FAIL) 
+00.00.0000 00:11:11 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:10:38 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:09:37 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:09:34 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:09:24 Err <EVENT> scm: 995-00-00 EV_SyncGetParameterValue:error. Status[Device locked], Action[Invalid parameter name], Name[X_<IGD>.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Enable]
+00.00.0000 00:09:24 Err <EVENT> scm: 995-00-00 WAN::connectionsIndexesDetection failed. Result: -2147483646 (E_FAIL) 
+00.00.0000 00:08:36 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:07:35 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:06:34 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:05:33 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:04:32 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:03:31 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:02:30 War <EVENT> kernel: Got MODEM_READY_MSG 
+00.00.0000 00:01:29 War <EVENT> kernel: MailboxWrite Fail.kernel: Got MODEM_READY_MSG 
+00.00.0000 00:01:29 War <EVENT> kernel: 
+00.00.0000 00:01:29 Err <EVENT> kernel: MEI_TO_ARC_MSGAV not cleared by ARC<3>meiCMV: 
+00.00.0000 00:01:29 War <EVENT> kernel: 
+00.00.0000 00:01:29 Err <EVENT> kernel: meiMailboxWrite: 
+00.00.0000 00:00:30 Err <EVENT> scm: 111-00-00 CM_GwService: EV_CM_CVS_StartConfig received when m_gw_sd is still 0 
+00.00.0000 00:00:28 War <EVENT> kernel: 
+kernel: Got MODEM_READY_MSG 
+00.00.0000 00:00:26 Err <EVENT> scm: 086-00-00 PortTriggering received EV_NET_IPSTATUS 
+00.00.0000 00:00:26 War <EVENT> scm: 054-00-00 no server specified 
+00.00.0000 00:00:26 Err <EVENT> scm: 050-01-00 QDisciplineCM:getLinuxDeviceName no Linux name found for IGD.WANDevice.1.WANConnectionDevice.1 
+00.00.0000 00:00:26 War <EVENT> kernel: ifx_mps_init_gpt_danube() - calibration done, waited 177 loops! 
+00.00.0000 00:00:25 War <EVENT> scm: 035-00-00 IGMP CM: shutdown tryUninstallModules 
+00.00.0000 00:00:25 War <EVENT> scm: 035-00-00 IGMP CM: Start Service 
+00.00.0000 00:00:25 War <EVENT> scm: 035-00-00 IGMP:: ServiceDataNotification [4] 
+00.00.0000 00:00:25 War <EVENT> kernel: $Id: ufsdvfs.c,v 1.148 2008/04/30 11:11:28 shura Exp $ 
+00.00.0000 00:00:25 War <EVENT> kernel: Big endian platform 
+00.00.0000 00:00:25 War <EVENT> kernel: NTFS read/write support included 
+00.00.0000 00:00:25 War <EVENT> kernel: UFSD version 6.12 (May 5 2008, 18:36:58) 
+00.00.0000 00:00:24 War <EVENT> kernel: dwc_otg proc initialization okay! 
+00.00.0000 00:00:24 Cri <EVENT> syslog: usb_hotplug: argv[3] = 9/0/1 
+00.00.0000 00:00:24 Cri <EVENT> syslog: usb_hotplug: argv[2] = 0/0/204 
+00.00.0000 00:00:24 Cri <EVENT> syslog: usb_hotplug: argv[1] = add 
+00.00.0000 00:00:24 Cri <EVENT> syslog: usb_hotplug: argv[0] = /usr/sbin/usb_hotplug 
+00.00.0000 00:00:24 War <EVENT> kernel: 
+00.00.0000 00:00:24 War <EVENT> kernel: 
+00.00.0000 00:00:24 War <EVENT> kernel: 
+00.00.0000 00:00:24 War <EVENT> kernel: 
+00.00.0000 00:00:23 Err <EVENT> kernel: devfs_mk_dir(usb): using old entry in dir: 810686c0 "" 
+00.00.0000 00:00:22 War <EVENT> scm: 080-01-00 IPTVCm: processChildEvent state==Idle (ignore event) 
+00.00.0000 00:00:21 War <EVENT> scm: 080-01-00 IPTVCm: processChildEvent state==Idle (ignore event) 
+00.00.0000 00:00:21 Err <EVENT> scm: 077-00-00 Commit failed: iptFix sent back commit_failed 
+00.00.0000 00:00:21 Err <EVENT> scm: 077-00-00 Commit failed: iptFix sent back commit_failed 
+00.00.0000 00:00:20 Err <EVENT> scm: 086-00-00 PortTriggering received EV_NET_IPSTATUS 
+00.00.0000 00:00:20 War <EVENT> scm: 032-03-00 DnsComponentManager:processChildEvent ignoring event while not started 
+00.00.0000 00:00:20 War <EVENT> scm: 033-01-00 CM_DHCPServer::processChildEvent: state==idle (ignore event) 
+00.00.0000 00:00:17 War <EVENT> scm: 047-00-00 BridgingComponent EV_ServiceDataNotification 1 
+00.00.0000 00:00:17 War <EVENT> scm: 032-03-00 DnsComponentManager:processChildEvent ignoring event while not started 
+00.00.0000 00:00:17 Cri <EVENT> syslog: usb_hotplug: argv[2] = lan_br1 
+00.00.0000 00:00:17 Cri <EVENT> syslog: usb_hotplug: argv[1] = register 
+00.00.0000 00:00:17 Cri <EVENT> syslog: usb_hotplug: argv[0] = /usr/sbin/usb_hotplug 
+00.00.0000 00:00:17 War <EVENT> scm: 032-03-00 DnsComponentManager:processChildEvent ignoring event while not started 
+00.00.0000 00:00:17 War <EVENT> scm: 032-03-00 DnsComponentManager:processChildEvent ignoring event while not started 
+00.00.0000 00:00:17 War <EVENT> scm: 032-03-00 DnsComponentManager:processChildEvent ignoring event while not started 
+00.00.0000 00:00:16 Cri <EVENT> syslog: usb_hotplug: argv[2] = ath0 
+00.00.0000 00:00:16 Cri <EVENT> syslog: usb_hotplug: argv[1] = register 
+00.00.0000 00:00:16 Cri <EVENT> syslog: usb_hotplug: argv[0] = /usr/sbin/usb_hotplug 
+00.00.0000 00:00:16 Cri <EVENT> syslog: usb_hotplug: argv[2] = wlant0 
+00.00.0000 00:00:16 Cri <EVENT> syslog: usb_hotplug: argv[1] = unregister 
+00.00.0000 00:00:16 Cri <EVENT> syslog: usb_hotplug: argv[0] = /usr/sbin/usb_hotplug 
+00.00.0000 00:00:15 Cri <EVENT> syslog: usb_hotplug: argv[2] = wlant0 
+00.00.0000 00:00:15 Cri <EVENT> syslog: usb_hotplug: argv[1] = register 
+00.00.0000 00:00:15 Cri <EVENT> syslog: usb_hotplug: argv[0] = /usr/sbin/usb_hotplug 
+00.00.0000 00:00:15 War <EVENT> kernel: wifi0: Use hw queue 9 for beacons 
+00.00.0000 00:00:15 War <EVENT> kernel: wifi0: Use hw queue 8 for CAB traffic 
+00.00.0000 00:00:15 War <EVENT> kernel: wifi0: Use hw queue 3 for WME_AC_VO traffic 
+00.00.0000 00:00:15 War <EVENT> kernel: wifi0: Use hw queue 2 for WME_AC_VI traffic 
+00.00.0000 00:00:15 War <EVENT> kernel: wifi0: Use hw queue 0 for WME_AC_BK traffic 
+00.00.0000 00:00:15 War <EVENT> kernel: wifi0: Use hw queue 1 for WME_AC_BE traffic 
+00.00.0000 00:00:15 War <EVENT> kernel: wifi0: mac 7.9 phy 4.5 radio 5.6 
+00.00.0000 00:00:15 War <EVENT> kernel: wifi0: turboG rates: 6Mbps 12Mbps 18Mbps 24Mbps 36Mbps 48Mbps 54Mbps 
+00.00.0000 00:00:15 War <EVENT> kernel: wifi0: 11g rates: 1Mbps 2Mbps 5.5Mbps 11Mbps 6Mbps 9Mbps 12Mbps 18Mbps 24Mbps 36Mbps 48Mbps 54Mbps 
+00.00.0000 00:00:15 War <EVENT> kernel: wifi0: 11b rates: 1Mbps 2Mbps 5.5Mbps 11Mbps 
+00.00.0000 00:00:15 Cri <EVENT> syslog: usb_hotplug: argv[2] = wifi0 
+00.00.0000 00:00:15 Cri <EVENT> syslog: usb_hotplug: argv[1] = register 
+00.00.0000 00:00:15 Cri <EVENT> syslog: usb_hotplug: argv[0] = /usr/sbin/usb_hotplug 
+00.00.0000 00:00:15 War <EVENT> kernel: Copyright (c) 2001-2004 Atheros Communications, Inc, All Rights Reserved 
+00.00.0000 00:00:15 War <EVENT> kernel: Copyright (c) 2005-2006 Atheros Communications, Inc. All Rights Reserved 
+00.00.0000 00:00:14 War <EVENT> kernel: wlan_eesim_write ok 
+00.00.0000 00:00:14 War <EVENT> kernel: -> wlan_eesim_write 0x0 4096 
+00.00.0000 00:00:14 War <EVENT> kernel: Porta WLAN EEPROM driver: v0.3 
+00.00.0000 00:00:09 Err <EVENT> scm: 017-05-00 Unable to create Device Config File for elements file: Elements file does not exist. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 014-00-00 Start component 26 (LOGGING) 
+00.00.0000 00:00:07 Inf <EVENT> scm: 014-00-00 Start component 16 (DeviceInfoService) 
+00.00.0000 00:00:07 Inf <EVENT> scm: 014-00-00 Updating system running level from 1 to 3 
+00.00.0000 00:00:07 Inf <EVENT> scm: 015-00-00 scm::ManagedParametersService [IGD] created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 080-00-00 scm::IPTVComponentManager created. [ID 80] 
+00.00.0000 00:00:07 Inf <EVENT> scm: 067-00-00 scm::SipAlgComponentManager created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 089-00-00 STUNService component created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 117-00-00 scm::NetworkMonitoringService created. [ID=117]) 
+00.00.0000 00:00:07 Inf <EVENT> scm: 116-00-00 OopsComponent created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 104-00-00 Created IPCaptureService 
+00.00.0000 00:00:07 Inf <EVENT> scm: 094-00-00 FirmwareUpdate--Created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 114-00-00 scm::PortRelayService created. [ID=114]) 
+00.00.0000 00:00:07 Inf <EVENT> scm: 000-00-00 CM_RTPSessionDiscovery: Created [103] 
+00.00.0000 00:00:07 Inf <EVENT> scm: 102-00-00 Host:Component manager: Created [102] 
+00.00.0000 00:00:07 Inf <EVENT> scm: 088-00-00 scm::WanReconnectSchedulingService created. [ID=88]) 
+00.00.0000 00:00:07 Inf <EVENT> scm: 086-00-00 PortTriggering component created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 054-00-00 scm::Diagnostic created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 053-00-00 scm::TraceRouteDiagnostic created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 052-00-00 scm::DynDnsComponent created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 051-00-00 scm::PingDiagnostic created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 028-00-00 ShttpdComponent created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 083-00-00 scm::TimeService created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 029-00-00 scm::TR69Component--created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 074-00-00 L2XP: component manager created [ID=74] 
+00.00.0000 00:00:07 Inf <EVENT> scm: 125-00-00 USB ioctl ok with switch=0 (0=100mA, 1=500mA) 
+00.00.0000 00:00:07 Inf <EVENT> scm: 125-00-00 IFX_USB: usbPower 0 
+00.00.0000 00:00:07 Inf <EVENT> scm: 098-00-00 CM_CIFS: constructor 
+00.00.0000 00:00:07 Inf <EVENT> scm: 097-00-00 CM_FTP: constructor 
+00.00.0000 00:00:07 Inf <EVENT> scm: 065-00-00 scm::EthernetSwitchADM6996ComponentManager created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 035-00-00 IGMPComponent created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 077-00-00 scm::FirewallComponent created [77] 
+00.00.0000 00:00:07 Inf <EVENT> scm: 096-101-00 created CM_DYNAMICCLASSIFICATION [96] 
+00.00.0000 00:00:07 Inf <EVENT> scm: 090-00-00 scm::IcProxyCM created. [ID=90]) 
+00.00.0000 00:00:07 Inf <EVENT> scm: 091-00-00 scm::CaptivePortalCM created. [ID=91]) 
+00.00.0000 00:00:07 Inf <EVENT> scm: 050-00-00 scm::QDisciplineComponentManager created. [ID=50] 
+00.00.0000 00:00:07 Inf <EVENT> scm: 032-00-00 scm::DnsServerComponentManager created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 033-00-00 CM_DHCPServer created [ID=33] 
+00.00.0000 00:00:07 Inf <EVENT> scm: 049-00-00 PPP:: processChildEvent, ppp_cm is down, ignore event [105]
+00.00.0000 00:00:07 Inf <EVENT> scm: 045-00-00 scm::IPComponent created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 042-00-00 scm::RoutingComponent created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 046-00-00 CM_DHCPClient created 
+00.00.0000 00:00:07 Inf <EVENT> scm: 047-00-00 scm::BridgingComponent created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 044-00-00 scm::LinkComponent created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 092-00-00 MAC:: init:ethaddress = 00:01:E3:84:A6:90 
+00.00.0000 00:00:07 Inf <EVENT> scm: 092-00-00 MAC:: init:ethcount = 8 
+00.00.0000 00:00:07 Inf <EVENT> scm: 092-00-00 scm:: MacService created. 
+00.00.0000 00:00:07 Inf <EVENT> scm: 071-00-00 CM_ATM: constructor 
+00.00.0000 00:00:06 Inf <EVENT> scm: 087-00-00 scm::8021XSupplicantMg--Created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 108-00-00 DisplayService created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 095-00-00 Security::Service created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 027-00-00 scm::PasswordService created. 
+00.00.0000 00:00:06 Inf <EVENT> scm: 026-00-00 scm::LoggingService created. 
+00.00.0000 00:00:06 Inf <EVENT> scm: 030-00-00 TR69Agent--Created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 115-00-00 scm::FileUpgrade::Service created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 084-00-00 FileUpload::Service created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 085-00-00 FileDownload::Service created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 025-00-00 scm::DownloadAgent created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 022-00-00 scm::SoftwareImageMngmt::Service created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 061-00-00 FileTransfer::Agent created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 057-00-00 scm::PlatformInfo Service created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 058-00-00 scm::SoftwareImageInstaller::ImageOnFlashService created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 056-00-00 FileVerification::Creator created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 055-00-00 FileVerification::Verificator created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 017-00-00 scm::DeviceConfig::Service created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 016-00-00 scm::DeviceInfo::Service created 
+00.00.0000 00:00:06 Inf <EVENT> scm: 000-00-00 PSTN_ISDN_GwServiceData : constructor called 
+00.00.0000 00:00:05 Err <EVENT> scm: 007-00-00 CommunicationSocket(10): Can't connect to socket Error=2: No such file or directory 
+00.00.0000 00:00:05 Inf <EVENT> scm: 000-00-00 Starting Service Management Framework, Version 2 (2.0.1) 
+00.00.0000 00:00:03 Inf <EVENT> syslog: TMOND: Watchdog started. Timeout is set to 4s. 
+00.00.0000 00:00:03 Eme <EVENT> syslog: TMOND: Setting CLKDIV ! 3 
+00.00.0000 00:00:03 Eme <EVENT> syslog: TMOND: Setting PWL! 3 
+00.00.0000 00:00:03 Inf <EVENT> syslog: TMOND: Starting Watchdog... 
+00.00.0000 00:00:03 Inf <EVENT> syslog: TMOND: My PID is 109 
+00.00.0000 00:00:03 War <EVENT> kernel: wdt_ioctl:enable watch dog timer! 
+00.00.0000 00:00:03 War <EVENT> kernel: wdt_open:wdt_open 
+00.00.0000 00:00:03 Inf <EVENT> syslogd: restart
+
