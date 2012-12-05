@@ -59,11 +59,9 @@ TODO
 2. Deze aansluiten op een FTDi adapter of buspirate
 3. Kijken of we output krijgen van de bootloader
 4. Eventueel een backup nemen van de flash firmware/bootloader die er nu opstaat (met dd op de eerste /dev/mtdblock als we in de shell zelf geraken)
-5. Kijken of het systeem hier vergelijkbaar is met wat op de wiki gezegd wordt (twee bootloaders, eerste controleert een checksum van de tweede, enkel geldig als die < 64k is)
-
-OF Vervangen van beide bootloaders met één versie van U-Boot en een default openwrt install (zie wiki, image op de link in google code)
-OF Vervangen van de tweede bootloader met deze download https://sx76x-openwrt-danube.googlecode.com/svn/trunk/secondary-uboot/secondary_boot.img
+6. Vervangen van de tweede bootloader met deze download https://sx76x-openwrt-danube.googlecode.com/svn/trunk/secondary-uboot/secondary_boot.img
  * Nadat de tweede bootloader is aangepast, herstarten en een openwrt binary uploaden via een nieuwe, aangepaste webinterface in die bootloader 
+7. 'U-boot as a primary bootloader, first one from a runing openwrt image, and a second one from serial console'
 
 We hebben geluk, blijkbaar werd deze info recenterlijk nog aangepast: Last modified: 2012/06/24 14:22 by ewoutvonk
 Het laatste dat ik gelezen heb was dat er een beveiliging op de op die bootloaders zat en toen was er nog geen directe oplossing voor.
